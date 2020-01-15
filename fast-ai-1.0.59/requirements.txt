@@ -8,4 +8,4 @@ torch
 torchvision
 fastai
 pillow==6.2.1
-
+tqdm

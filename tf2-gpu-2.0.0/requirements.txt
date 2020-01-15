@@ -5,3 +5,4 @@ tensorflow-gpu==2.0.0
 xgboost==0.90
 matplotlib
 jupyter
+tqdm
