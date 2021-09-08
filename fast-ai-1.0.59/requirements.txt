@@ -7,5 +7,5 @@ jupyter
 torch
 torchvision
 fastai
-pillow==6.2.1
+pillow==8.3.2
 tqdm
